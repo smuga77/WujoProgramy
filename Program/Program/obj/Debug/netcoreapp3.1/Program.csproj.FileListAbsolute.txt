@@ -1,0 +1,11 @@
+C:\Users\Kamilek\source\repos\Program\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\Kamilek\source\repos\Program\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\Kamilek\source\repos\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\Kamilek\source\repos\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\Kamilek\source\repos\Program\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\Kamilek\source\repos\Program\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Kamilek\source\repos\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\Kamilek\source\repos\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\Kamilek\source\repos\Program\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\Kamilek\source\repos\Program\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Kamilek\source\repos\Program\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
